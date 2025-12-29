@@ -1,0 +1,4 @@
+ETL dos dados de arquivos CSV 
+    - Primeiro neste projeto realizamos a análise exploratória dos dados com o pandas profile da ydata profiling 
+    - Em seguida é feita a leitura do CSV, são criados os data frames e por validados com bibliotecas de data quality
+    - 
